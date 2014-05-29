@@ -1,0 +1,7 @@
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\bin\MvcAppshowAsteriskForLabel.dll
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\bin\MvcAppshowAsteriskForLabel.pdb
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\bin\EntityFramework.dll
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\bin\EntityFramework.xml
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\obj\Debug\MvcAppshowAsteriskForLabel.dll
+C:\WebApps\MvcAppshowAsteriskForLabel\MvcAppshowAsteriskForLabel\obj\Debug\MvcAppshowAsteriskForLabel.pdb
